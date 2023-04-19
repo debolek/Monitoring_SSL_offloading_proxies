@@ -8,7 +8,7 @@ Task
 
 The server is used for SSL offloading and proxies around 25000 requests per
 second. Please let us know which metrics are interesting to monitor in that specific
-case and how would you do that? What are the challenges of monitoring this?
+case and how would you do that? What are the challenges of monitoring this?.
 
 
 
